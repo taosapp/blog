@@ -1,5 +1,7 @@
-# fix the avatar is not display when phpwind 9 to discuz x 3.1
-2013-12-19 16:13:00
+---
+title: fix the avatar is not display when phpwind 9 to discuz x 3.1
+date: 2013-12-19 16:13:00
+---
 
 phpwind 9 转换到 discuz x 3.1后，按照discuz转换程序的步骤做，头像仍然不显示，后来登录后重新上传头像发现，是文件名的原因，如下操作改名即可（还好我的论坛会员不多，不然手改累死人，当然强大的linux肯定有的批量改文件名的方法，我还没掌握）：
 

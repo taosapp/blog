@@ -1,5 +1,7 @@
-# Translate bbpress Chinese language
-2012-05-23 11:59:35
+---
+title: Translate bbpress Chinese language
+date: 2012-05-23 11:59:35
+---
 
 I was looking for the latest 2.0 bbpress Chinese language package but not result. then I saw the page [http://translate.wordpress.org/projects/bbpress/plugin/zh-cn/default](http://translate.wordpress.org/projects/bbpress/plugin/zh-cn/default), showing the translate progress only complated 30%.
 

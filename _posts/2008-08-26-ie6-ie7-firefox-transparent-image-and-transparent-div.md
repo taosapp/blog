@@ -1,5 +1,7 @@
-# ie6 ie7 firefox transparent image and transparent div
-2008-08-26 17:40:00
+---
+title: ie6 ie7 firefox transparent image and transparent div
+date: 2008-08-26 17:40:00
+---
 
 for image:
 

@@ -1,6 +1,7 @@
-# twitter VS bbs
-
-2009-03-20 05:12:00
+---
+title: twitter VS bbs
+date: 2009-03-20 05:12:00
+---
 
 2 tweets:
 

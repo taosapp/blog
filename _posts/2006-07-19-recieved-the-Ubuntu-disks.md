@@ -1,6 +1,7 @@
-# recieved the Ubuntu disks
-
-2006-07-19 09:40:00
+---
+title: recieved the Ubuntu disks
+date: 2006-07-19 09:40:00
+---
 
 8 32-bit discs, 1 64-bit disc and 1 mac disc.
 

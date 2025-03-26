@@ -1,5 +1,7 @@
-# Sublime Text 3 sass config
-2014-03-24 11:14:00
+---
+title: Sublime Text 3 sass config
+date: 2014-03-24 11:14:00
+---
 
 ## first install sass and sass build plugin，create a test.scss file
 ```css
